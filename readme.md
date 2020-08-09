@@ -1,6 +1,6 @@
 # QuizCircle
 
-Quiz snack is a one day project to see if I could design a non-ML system to answer quiz bowl questions using only basic NLP and wikipedia. 
+Quizcircle is a one day project to see if I could design a non-ML system to answer quiz bowl questions using only basic NLP and wikipedia. 
 
 
 
